@@ -9,3 +9,4 @@ module.exports = (sequelize, DataTypes) => {
   return Registration;
 };
 //test comment
+//Welcome Naveen
