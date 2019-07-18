@@ -8,4 +8,4 @@ module.exports = (sequelize, DataTypes) => {
   
   return Registration;
 };
-//test comment
+//test comment test
