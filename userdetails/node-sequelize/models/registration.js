@@ -8,5 +8,6 @@ module.exports = (sequelize, DataTypes) => {
   
   return Registration;
 };
-//test comment
-//Welcome Naveen kumar
+
+//test comment hai mam
+//>>>>>>> 4e06afcac50ff3e40c9ffd1df49537f58817d0e4
